@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Employees>
+  <Person>
+    <ID>4056</ID>
+    <Department>2</Department>
+    <LastName>Hazar</LastName>
+    <HireDate>13.10.2014</HireDate>
+    <Salary>64500</Salary>
+    <Commision>0,5</Commision>
+  </Person>
+  <Person>
+    <ID>5067</ID>
+    <Department>3</Department>
+    <LastName>Dovlaton</LastName>
+    <HireDate>04.04.2018</HireDate>
+    <Salary>87600</Salary>
+    <Commision>0,11</Commision>
+  </Person>
+  <Person>
+    <ID>4405</ID>
+    <Department>8</Department>
+    <LastName>Genzo</LastName>
+    <HireDate>12.08.2019</HireDate>
+    <Salary>76000</Salary>
+    <Commision>0,56</Commision>
+  </Person>
+</Employees>
